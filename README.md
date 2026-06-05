@@ -4,8 +4,6 @@ I'm a Web Developer from Argentina.
 
 🔭 I’m currently working on [Arrecifes Adopta](https://github.com/jlemes1/arrecifes-adopta).
 
-🌱 I’m currently learning Astro.
-
 ## Technologies
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
