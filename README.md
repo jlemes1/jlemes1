@@ -2,7 +2,7 @@
 
 I'm a Web Developer from Argentina.
 
-🔭 I’m currently working on [Doble9](https://github.com/jlemes1/doble9).
+🔭 I’m currently working on [Doble9 - Ecommerce](https://github.com/jlemes1/doble9)
 
 ## Technologies
 
